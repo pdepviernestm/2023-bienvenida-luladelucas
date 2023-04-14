@@ -4,7 +4,7 @@ Buenass! Mi nombre es Lourdes pero me dicen **Lula**, tengo 21 años y cumplo el
 ***
 Desde el 2021 trabajo en una Consultora de Sistemas como Analista Funcional y Desarollador. 
 
-Recientemente me capacité en el área de la Programación Web y de a poco me estoy metiendo en el mundo del Front-End.
+Recientemente me capacité en el área de la Programación Web en el Centro de e-Learning UTN y de a poco me estoy metiendo en el mundo del Front-End.
 ***
 En lo personal me encanta pasar tiempo con mi familia, jugar con mis sobrinos y juntarme con amigos.
 
